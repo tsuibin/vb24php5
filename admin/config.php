@@ -14,13 +14,13 @@ $servername = 'localhost';
 
 // username and password to log onto db server
 $dbusername = 'root';
-$dbpassword = 'a12345';
+$dbpassword = 'passwd';
 
 // name of database
 $dbname = 'vbulletin';
 
 // technical email address - any error messages will be emailed here
-$technicalemail = 'xubin@linuxdeepin.com';
+$technicalemail = 'yourname@domain.com';
 
 // use persistant connections to the database
 // 0 = don't use
